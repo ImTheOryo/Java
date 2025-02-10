@@ -1,6 +1,6 @@
 package Variables;
 
-public class Exo_8 {
+public class Exo_08 {
     public static void main(String[] args) {
         String [] myArray42 = "quarante-deux".split("");
         for (String s : myArray42) {

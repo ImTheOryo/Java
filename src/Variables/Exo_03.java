@@ -3,7 +3,7 @@ package Variables;
 import java.util.ArrayList;
 import java.util.Date;
 
-public class Exo_3 {
+public class Exo_03 {
     public static void main(String[] args) {
         Byte a = 127;
         Integer b = 5;

@@ -1,10 +1,9 @@
 package Variables;
 
-public class Exo_6 {
+public class Exo_07 {
     public static void main(String[] args) {
         String [] myArray42 = "quarante-deux".split("");
-        for (String s : myArray42) {
-            System.out.println(s);
-        }
+        int myArray42Length = myArray42.length;
+        System.out.println(myArray42Length);
     }
 }
