@@ -1,4 +1,4 @@
-package Attribut;
+package Attributs;
 
     public class Voiture {
         private String marque;

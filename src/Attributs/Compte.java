@@ -1,4 +1,4 @@
-package Attribut;
+package Attributs;
 
     public class Compte {
         static int nombreDeComptes = 0;

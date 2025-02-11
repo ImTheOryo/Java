@@ -1,4 +1,4 @@
-package Attribut;
+package Attributs;
 
     public class Exo_05 {
         public static void main(String[] args) {
