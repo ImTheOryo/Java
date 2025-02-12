@@ -5,7 +5,6 @@ package Attributs;
 
         public Voiture(String marque) {
             this.marque = marque;
-
         }
         public String getMarque() {
             return marque;
